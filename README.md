@@ -2,7 +2,7 @@
 <img align='right' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/sprites/zelda.gif' width='20%'>  
 
 # BIO
-CEO on [TheC0d3](https://twitter.com/thealejandro__)
+CEO on [TheC0d3](https://twitter.com/thealejandro__) and [XACode](https://xacode.dev)
 
 🧮 Lover of Problems, ⚛️ Quantum Mechanics/Physics, 🌎 Astronomy, and 🧪 Chemistry.  
   

@@ -6,7 +6,7 @@ CEO on [XACode](https://xacode.dev)
 
 🧮 PHP, ⚛️ Engineering, 🌎 Web Developer, Full Stack.  
   
-![](https://komarev.com/ghpvc/?username=TheAlejandRo&style=flat&label=Views)
+![](https://komarev.com/ghpvc/?username=thealejandro&style=green)
 
 **Contact me on**
 **Web Porfolio: [thealejandro](https://thealejandro.dev)**

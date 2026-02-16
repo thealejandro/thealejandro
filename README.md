@@ -8,6 +8,8 @@ CEO on [XACode](https://xacode.dev)
   
 ![](https://komarev.com/ghpvc/?username=thealejandro&color=green&abbreviated=true&style=flat&label=Views)
 
+![](https://hit.yhype.me/github/profile?account_id=34754793)
+
 **Contact me on**
 **Web Porfolio: [thealejandro](https://thealejandro.dev)**
 **Twitter: [thealejandro](https://twitter.com/thealejandro__)**

@@ -39,7 +39,10 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-<h3 align="center">Contibutions</h3>
+<h3 align="center">My Charts</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thealejandro&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" />
+</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thealejandro&theme=radical" alt="GitHub Streak" />
 </p>

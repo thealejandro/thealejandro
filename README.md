@@ -18,13 +18,13 @@
 * 💼 **LinkedIn:** [Alejandro Caal](https://linkedin.com/thealejandro__)
 * 📜 **Web CV:** [thealejandro CV](https://thealejandro.dev/cv)
 
-<h2 align="center">Organizations</h2>
+<h3 align="center">Organizations</h2>
 
 | Entity | Logo | Link |
 | :---: | :---: | :---: |
 | **XACode** | <img src="https://github.com/user-attachments/assets/d9dd90e8-fb25-4824-b038-83187ad1e48d" width="100"/> | [`github.com/XACode`](https://github.com/XACodev) |
 
-<h2 align="center">Skills</h2>
+<h3 align="center">Skills</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
@@ -39,8 +39,10 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
+<h3 align="center">Contibutions</h3>
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thealejandro&theme=radical" alt="GitHub Streak" />
 </p>
 
-<h2 align="center">Pinned Repositories</h2>
+<h3 align="center">Pinned Repositories</h2>
 <p align="center">Take a look at my most outstanding repositories.</p>

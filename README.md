@@ -1,12 +1,9 @@
 <p align="center">
-  <img align='left' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/sprites/LinkFront_Beat.gif' width='20%'>  
-  <img align='right' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/sprites/zelda.gif' width='20%'>  
-</p>
-
-<h2 align="center">
+  <img align="center" height="200" alt="photo of thealejandro" src="https://github.com/user-attachments/assets/0cc18438-158a-4291-9820-d3ba15d10ed7" />
+  <h2 align="center">
     ¡Hola 👋!, soy thealejandro
-</h2>
-<img width="950" height="810" alt="picture of thealejandro" src="https://github.com/user-attachments/assets/0cc18438-158a-4291-9820-d3ba15d10ed7" />
+  </h2>
+</p>
 
 # BIO
 CEO on [XACode](https://xacode.dev) and [TechCod3](https://github.com/TechCod3).

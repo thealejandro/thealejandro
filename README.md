@@ -5,32 +5,39 @@
   </h2>
 </p>
 
-# BIO
-CEO on [XACode](https://xacode.dev) and [TechCod3](https://github.com/TechCod3).
-🐘 PHP, ⚙️ Engineering, 🌐 Web Developer, 👨🏽‍💻 Full Stack.
-  
-![](https://komarev.com/ghpvc/?username=thealejandro&color=green&abbreviated=true&style=flat&label=Views)
-![](https://hit.yhype.me/github/profile?account_id=34754793)
+### BIO
+<span align="center">CEO on [XACode](https://xacode.dev) and [TechCod3](https://github.com/TechCod3).</span>
+🐘 PHP, ⚙️ Engineering, 🌐 Web Developer, 👨🏽‍💻 Full Stack.</span>
 
-**Contact me on**
-**Web Porfolio: [thealejandro](https://thealejandro.dev)** (Building)
-**Twitter: [thealejandro](https://twitter.com/thealejandro__)**
-**Instagram: [thealejandro](https://instagram.com/thealejandro__)**
-**Web CV: [thealejandro CV](https://thealejandro.dev/cv)**
+![](https://komarev.com/ghpvc/?username=thealejandro&color=green&abbreviated=true&style=flat&label=Views)
+![](https://hit.yhype.me/github/profile?account_id=34754793)  
+
+### 📩 Contact
+* 🌐 **Portfolio:** [thealejandro.dev](https://thealejandro.dev)
+* 🐦 **Twitter:** [@thealejandro__](https://twitter.com/thealejandro__)
+* 💼 **LinkedIn:** [Alejandro Caal](https://linkedin.com/thealejandro__)
+* 📜 **Web CV:** [thealejandro CV](https://thealejandro.dev/cv)
 
 <h2 align="center">Organizations</h2>
 
-| <a href="https://github.com/XACodev" target="_blank">**XACode**</a> |
-| :---: |
-| <img align="center" src="https:// />
-
-| <a href="https://github.com/2lstudios" target="_blank">**2LStudios**</a> | <a href="https://github.com/2LStudios-MC" target="_blank">**2LSMC**</a> | <a href="https://github.com/rubiuscorp" target="_blank">**RubiusCorp**</a> | <a href="https://github.com/playpulse" target="_blank">**ArkFlame**</a> |
-|:---: | :---: | :---: | :---:|
-| <img align='center' src='https://avatars0.githubusercontent.com/u/47465684?s=200&v=4' height='100px'> | <img align='center' src='https://avatars2.githubusercontent.com/u/53847752?s=200&v=4' height='100px'> | <img align='center' src='https://avatars2.githubusercontent.com/u/60458264?s=200&v=4' height='100px'>  | <img align='center' src='https://avatars.githubusercontent.com/u/47249069?s=200&v=4' height='100px'> |
-| <a href="http://github.com/2lstudios" target="_blank">`github.com/2lstudios`</a> | <a href="http://github.com/2lstudios-mc" target="_blank">`github.com/2lstudios-mc`</a> | <a href="https://github.com/rubiuscorp" target="_blank">`github.com/rubiuscorp`</a> | <a href="https://github.com/arkflame" target="_blank">`github.com/arkflame`</a> |
+| Entity | Logo | Link |
+| :---: | :---: | :---: |
+| **XACode** | <img src="https://github.com/user-attachments/assets/d9dd90e8-fb25-4824-b038-83187ad1e48d" width="100"/> | [`github.com/XACode`](https://github.com/XACodev) |
 
 <h2 align="center">Skills</h2>
-<p align="center">A summary of my programming skills.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
 <p align="center">
 </p>

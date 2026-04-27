@@ -5,27 +5,51 @@
   </h2>
 </p>
 
-### BIO
-<span align="center">CEO on [XACode](https://xacode.dev) and [TechCod3](https://github.com/TechCod3).</span>
-🐘 PHP, ⚙️ Engineering, 🌐 Web Developer, 👨🏽‍💻 Full Stack.</span>
+<div align="center">
+
+<p>
+  
+CEO on [XACode](https://xacode.dev) and [TechCod3](https://github.com/TechCod3).  
+  🐘 PHP, ⚙️ Engineering, 🌐 Web Developer, 👨🏽‍💻 Full Stack.
+  
+</p>
 
 ![](https://komarev.com/ghpvc/?username=thealejandro&color=green&abbreviated=true&style=flat&label=Views)
-![](https://hit.yhype.me/github/profile?account_id=34754793)  
+![](https://hit.yhype.me/github/profile?account_id=34754793)
 
+</div>
+
+<div align="center">
+  
 ### 📩 Contact
-* 🌐 **Portfolio:** [thealejandro.dev](https://thealejandro.dev)
-* 🐦 **Twitter:** [@thealejandro__](https://twitter.com/thealejandro__)
-* 💼 **LinkedIn:** [Alejandro Caal](https://linkedin.com/thealejandro__)
-* 📜 **Web CV:** [thealejandro CV](https://thealejandro.dev/cv)
 
-<h3 align="center">Organizations</h2>
+🌐 **Portfolio:** [thealejandro.dev](https://thealejandro.dev)  
+💼 **LinkedIn:** [Alejandro Caal](https://linkedin.com/thealejandro__)  
+📧 **Email:** *contact@thealejandro.dev*
+
+</div>
+
+#
+
+<div align="center">
+  
+### Organizations
 
 | Entity | Logo | Link |
 | :---: | :---: | :---: |
-| **XACode** | <img src="https://github.com/user-attachments/assets/d9dd90e8-fb25-4824-b038-83187ad1e48d" width="100"/> | [`github.com/XACode`](https://github.com/XACodev) |
+| **XACode** | <img src="https://github.com/user-attachments/assets/d9dd90e8-fb25-4824-b038-83187ad1e48d" width="150"/> | [`xacode.dev`](https://xacode.dev)
+| **xaWeb** | <img src="https://github.com/user-attachments/assets/d9dd90e8-fb25-4824-b038-83187ad1e48d" width="150"/> | [`xaweb.dev`](https://xaweb.dev)
+| **xaCare** | <img src="https://github.com/user-attachments/assets/d9dd90e8-fb25-4824-b038-83187ad1e48d" width="150"/> | [`care.xacode.dev`](https://care.xacode.dev)
+| **xaFleet** | <img src="https://github.com/user-attachments/assets/d9dd90e8-fb25-4824-b038-83187ad1e48d" width="150"/> | [`github.com/XACode`](https://github.com/XACodev)
 
-<h3 align="center">Skills</h2>
-<p align="center">
+</div>
+
+#
+
+<div align="center">
+  
+### Skills
+<p>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
@@ -34,18 +58,20 @@
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-<h3 align="center">My Charts</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thealejandro&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thealejandro&theme=radical" alt="GitHub Streak" />
-</p>
+</div>
 
-<h3 align="center">Pinned Repositories</h2>
-<p align="center">Take a look at my most outstanding repositories.</p>
+<div align="center">
+  
+### My Charts
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thealejandro&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thealejandro&theme=radical" alt="GitHub Streak" />
+
+### Pinned Repositories
+<p>Take a look at my most outstanding repositories.</p>
+
+</div>

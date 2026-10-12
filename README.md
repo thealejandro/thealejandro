@@ -11,10 +11,10 @@
 <div align="center">
 
 <p>
-  
-CEO on [XACode](https://xacode.dev) and [TechCod3](https://github.com/TechCod3).  
-  🐘 PHP, ⚙️ Engineering, 🌐 Web Developer, 👨🏽‍💻 Full Stack.
-  
+
+Desarrollador full stack y fundador de [XACode](https://xacode.dev) · también en [TechCod3](https://github.com/TechCod3).
+🐘 PHP · Laravel · Livewire · 🚀 Astro · 🌐 Web · ☁️ Infraestructura. Desde Cobán, Guatemala 🇬🇹.
+
 </p>
 
 ![](https://komarev.com/ghpvc/?username=thealejandro&color=green&abbreviated=true&style=flat&label=Views)
@@ -24,11 +24,11 @@ CEO on [XACode](https://xacode.dev) and [TechCod3](https://github.com/TechCod3).
 #
 
 <div align="center">
-  
-### 📩 Contact
 
-🌐 **Portfolio:** [thealejandro.dev](https://thealejandro.dev)  
-💼 **LinkedIn:** [Alejandro Caal](https://linkedin.com/thealejandro__)  
+### 📩 Contacto
+
+🌐 **Portafolio:** [thealejandro.dev](https://thealejandro.dev) · 📄 [CV](https://thealejandro.dev/cv)
+💼 **LinkedIn:** [Alejandro Caal](https://linkedin.com/in/thealejandro)
 📧 **Email:** *contact@thealejandro.dev*
 
 </div>
@@ -36,32 +36,42 @@ CEO on [XACode](https://xacode.dev) and [TechCod3](https://github.com/TechCod3).
 #
 
 <div align="center">
-  
-### Organizations
 
-| XACode | xaWeb | xaCare | xaFleet |
-| :---: | :---: | :---: | :---: |
-| <img width="150" alt="xacode_logo" src="https://github.com/user-attachments/assets/aeb4386f-c2c8-4f2c-834d-83554c2b4eda" /> | <img src="https://github.com/user-attachments/assets/d9dd90e8-fb25-4824-b038-83187ad1e48d" width="150"/> | <img src="https://github.com/user-attachments/assets/d9dd90e8-fb25-4824-b038-83187ad1e48d" width="150"/> | <img src="https://github.com/user-attachments/assets/d9dd90e8-fb25-4824-b038-83187ad1e48d" width="150"/>
-| [`xacode.dev`](https://xacode.dev) | [`xaweb.dev`](https://xaweb.dev) | [`care.xacode.dev`](https://care.xacode.dev) | [`github.com/XACode`](https://github.com/XACodev)
+### 🧩 Lo que estoy construyendo
+
+| Producto | ¿Qué es? | Estado |
+| :--- | :--- | :---: |
+| 🏥 [**xaCare**](https://care.xacode.dev) | Gestión hospitalaria: pacientes, ingresos, quirófano y honorarios | En producción |
+| 💬 [**xaTiende**](https://xatiende.com) | Atención por WhatsApp con bandeja compartida, bot y asistente IA | Beta con pilotos |
+| 🛡️ [**xaSeguros**](https://seguros.xacode.dev) | Seguimiento de reclamos a aseguradoras (Kanban, FEL) | En producción |
+| 🛒 **xaPedidos** | Pedidos en línea con marca propia para cada negocio | Próximamente |
+| 🚗 **xaFleet** | Gestión de flota vehicular | Próximamente |
+| 🌐 [**hospitalcoban.com**](https://hospitalcoban.com) | Sitio institucional en Astro con CMS editable (Lighthouse móvil 37 → 99) | En producción |
+
+Más en [xacode.dev](https://xacode.dev) y en la organización [@XACodev](https://github.com/XACodev).
 
 </div>
 
 #
 
 <div align="center">
-  
+
 ### Skills
 <p>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/livewire-%234E56A6.svg?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
+  <img src="https://img.shields.io/badge/astro-%23BC52EE.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/postgresql-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 

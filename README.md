@@ -56,6 +56,29 @@ Más en [xacode.dev](https://xacode.dev) y en la organización [@XACodev](https:
 
 <div align="center">
 
+### 🏝️ Open source: omarchy-island
+
+Una isla dinámica para [Omarchy](https://omarchy.org) que sale del reloj de la barra: música con controles, avisos de volumen y batería, calendario del mes, temporizador de enfoque, clima y los toggles rápidos de Omarchy. Animada con resortes y con los colores de tu tema.
+
+<a href="https://github.com/thealejandro/omarchy-island">
+  <img src="https://raw.githubusercontent.com/thealejandro/omarchy-island/main/docs/island-demo.gif" alt="omarchy-island" width="560" />
+</a>
+
+<p>
+  <img src="https://img.shields.io/badge/qml-%2341CD52.svg?style=for-the-badge&logo=qt&logoColor=white" alt="QML" />
+  <img src="https://img.shields.io/badge/quickshell-%23222436.svg?style=for-the-badge&logoColor=white" alt="Quickshell" />
+  <img src="https://img.shields.io/badge/hyprland-%2358E1FF.svg?style=for-the-badge&logo=hyprland&logoColor=black" alt="Hyprland" />
+  <img src="https://img.shields.io/badge/arch%20linux-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
+</p>
+
+`omarchy plugin add https://github.com/thealejandro/omarchy-island.git --enable`
+
+</div>
+
+#
+
+<div align="center">
+
 ### Skills
 <p>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
